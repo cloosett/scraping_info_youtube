@@ -14,7 +14,7 @@ Selenium
 BeautifulSoup
 
 Встановіть необхідні пакети Python за допомогою команди:
-pip install selenium beautifulsoup4 lxml
+pip install selenium beautifulsoup4 lxml або pip install -r requirements.txt
     
     Використання
 Клонуйте репозиторій:
